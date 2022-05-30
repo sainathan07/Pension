@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA69GivEm/EUqY5W82fsMljwAAAAACAAAAAAAQZgAAAAEAACAAAADL996/KvyuC5qVTVDROVka/MMGLE+jivS09CjwxbCp1gAAAAAOgAAAAAIAACAAAACgaKBiPoCKQwyWgwOpJ72v8D5A7mughGktkDEyjZePSIAAAAA3x1vZy3jfIKmEXG1GXJwSRKxcGF9gGCH1eBT9sEDZRB2Lz3muDmJaWERQUFKliGj1lE+sHjIHZiDUkn73HafdLCyXZS9V7BKhgYlVztZ324C/Nm5XfBRT7Dfw4ZlsReGhHPqeGjT1GUVU8F3/Fo1iu18hgHznM9yj6pRp2nTByUAAAAB08AoFgmeVZ3CvoZsFyco20ICuJx7dqeR/2VjKl/ApB+cnG1qLXBTylBcjSTHQERdKQ+g3OoCON8SgoJ+oTTz0</EncryptedPassword>
+    <History>True|2022-05-24T03:31:16.5465034Z;True|2022-05-24T08:42:08.1678218+05:30;True|2022-05-24T07:45:32.9389257+05:30;False|2022-05-24T07:43:20.6587280+05:30;True|2022-05-23T22:35:47.7330241+05:30;True|2022-05-23T22:25:23.3394125+05:30;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="WebApplication2.Models.DbContextClass">
+      <Value>Server=tcp:saiproject.database.windows.net,1433%3bInitial Catalog=pensionsystem%3bPersist Security Info=False%3bUser ID=sainathan%3bPassword=saiproject123%40%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

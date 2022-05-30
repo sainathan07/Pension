@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/saiproject/databases/pensionsystem",
+      "type": "mssql.azure",
+      "connectionId": "ConnectionStrings:constr",
+      "secretStore": "AzureAppSettings"
+    }
+  }
+}
